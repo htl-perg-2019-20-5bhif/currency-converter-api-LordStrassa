@@ -1,0 +1,8 @@
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\bin\Debug\netstandard2.1\CurrencyConverter.Logic.deps.json
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\bin\Debug\netstandard2.1\CurrencyConverter.Logic.dll
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\bin\Debug\netstandard2.1\CurrencyConverter.Logic.pdb
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\obj\Debug\netstandard2.1\CurrencyConverter.Logic.csprojAssemblyReference.cache
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\obj\Debug\netstandard2.1\CurrencyConverter.Logic.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\obj\Debug\netstandard2.1\CurrencyConverter.Logic.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\obj\Debug\netstandard2.1\CurrencyConverter.Logic.dll
+C:\Users\Jakob\source\repos\CurrencyConverter\CurrencyController.Logic\obj\Debug\netstandard2.1\CurrencyConverter.Logic.pdb
